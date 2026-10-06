@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/gantryexpwysnumber",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/middlehold",
-    "gantryexpwysnumber": "junjietrafficmod:block/gantryexpwysnumber"
-  },
-  "render_type": "cutout_mipped"
-}

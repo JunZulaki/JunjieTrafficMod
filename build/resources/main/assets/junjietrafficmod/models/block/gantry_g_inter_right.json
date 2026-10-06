@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/gantryginterright",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/tip13",
-    "gantryginterright": "junjietrafficmod:block/gantryginterright"
-  },
-  "render_type": "cutout_mipped"
-}

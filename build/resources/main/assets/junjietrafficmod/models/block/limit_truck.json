@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/limittruck",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/middlehold",
-    "limittruck": "junjietrafficmod:block/limittruck"
-  },
-  "render_type": "cutout_mipped"
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/cross2",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/103cross1",
-    "cross2": "junjietrafficmod:block/103cross2"
-  },
-  "render_type": "cutout_mipped"
-}

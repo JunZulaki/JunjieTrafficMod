@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/sideexitnumber",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/middlehold",
-    "exitnumber": "junjietrafficmod:block/exitnumber"
-  },
-  "render_type": "cutout_mipped"
-}

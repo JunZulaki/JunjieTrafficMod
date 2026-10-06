@@ -1,9 +1,0 @@
-{
-  "parent": "junjietrafficmod:custom/limitemergency",
-  "textures": {
-    "all": "junjietrafficmod:block/gunmu",
-    "particle": "junjietrafficmod:block/middlehold",
-    "limitemergency": "junjietrafficmod:block/limitemergency"
-  },
-  "render_type": "cutout_mipped"
-}
